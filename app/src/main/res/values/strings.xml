@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocketMessager</string>
+    <string name="socket_host">Host:</string>
+    <string name="socket_port">Port:</string>
+    <string name="web_sockets_message">Message:</string>
+    <string name="web_sockets_send_message">Send</string>
+    <string name="socket_connect_text">Connect</string>
+</resources>
